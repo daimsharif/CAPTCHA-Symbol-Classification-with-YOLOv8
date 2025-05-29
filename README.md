@@ -11,4 +11,12 @@ This project presents a scalable, deep-learning-based solution to recognize CAPT
 - **Deployment**: Model exported to ONNX and deployed on Raspberry Pi (via remote access under VPN)
 - **Result**: Achieved ~95.6% validation accuracy on diverse CAPTCHA fonts with no overfitting
 
+## 📄 Full Report
+
+View the full technical report:
+
+👉 [Captchas_Report.pdf](./Captchas_Report.pdf)
+
+And the instructions to run the code
+👉 [Code_Instructions.pdf](./Code_Instructions.pdf)
 
